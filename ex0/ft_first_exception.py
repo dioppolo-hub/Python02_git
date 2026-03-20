@@ -19,4 +19,4 @@ if __name__ == "__main__":
     print("=== Garden Temperature ===\n")
     temp_str = "34"
     print(f"Input data is '{temp_str}'")
-    x = test_temperature(temp_str)
+    test_temperature(temp_str)
